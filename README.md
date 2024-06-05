@@ -68,19 +68,22 @@ The model ROUGE scores are very low, which is to be expected as the training app
 ## Sample Model Answers
 
 1. Question: What is glaucoma?
+   
    Small model answer: Glaucoma is a rare disease that affects the eyes and eyes. It is caused by a combination of factors, including the presence of a glaucoma, and the presence of a glaucoma. The symptoms of 
    glaucoma vary widely, and may include a glaucoma that is a swollen eyelid, a swollen eyelid 
 
-    Base model answer: Glaucoma is a condition that causes a stenting of the eye, which is a symptom of glaucoma. Glaucoma is a condition that affects the eyes, ears, and nose. Glaucoma is caused by mutations in 
-    the X-linked gene, which means that the X-linked gene is involved in the development of the glaucoma.
+   Base model answer: Glaucoma is a condition that causes a stenting of the eye, which is a symptom of glaucoma. Glaucoma is a condition that affects the eyes, ears, and nose. Glaucoma is caused by mutations in 
+   the X-linked gene, which means that the X-linked gene is involved in the development of the glaucoma.
 
 2. Question: Is mineral deficiency harmful?
+   
    Small model answer: The mineral deficiency is a condition that affects the body's ability to absorb minerals. The mineral deficiency is a condition that affects the body's ability to absorb minerals. The 
    mineral deficiency is a condition that affects the body's ability to absorb minerals. The mineral deficiency is a condition that affects the body's ability to absorb minerals.
 
    Base model answer: The risk of developing mineral deficiency is high. The risk of developing mineral deficiency is high. The risk of developing mineral deficiency is high.
 
 3. Question: What causes Urine Blockage in Newborns?
+   
    Small model answer: The urethra is a bacterial infection that causes a bacterial infection. The urethra is a bacterial infection that causes a bacterial infection. The urethra is a bacterial infection that 
    causes a bacterial infection. The urethra is a bacterial infection that causes a bacterial infection.
 
