@@ -4,6 +4,7 @@
 
 - Since the dataset only contains two columns (Question and Answer), I have assumed that there is no context or reference text from where the answer is extracted or inferred from in the dataset.
 - I have assumed that the user will input a question and get a single answer as output, instead of there being multiple answers being presented to the person passing the query as input to the model.
+- Since the assignment asked us to not use any external LLM APIs, I have also refrained from finetuning models like Llama-2 (using LoRA) or GPT-2. I have attempted to create the question answering model by following a more pure NLP driven approach. 
 
 ## Information Gathering
 
