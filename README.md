@@ -42,8 +42,6 @@ In simpler terms, whereas ROUGE-L looks at the summary as a whole, ROUGE-Lsum co
 
 ROUGE-L ignores newlines and computes the LCS for the entire text. ROUGE-Lsum splits the text into sentences based on newlines and computes the LCS for each pair of sentences and take the average score for all sentences.
 
-Absolutely, here's the information without markdown formatting:
-
 The image you sent shows the results of training a machine learning model, likely for a natural language processing task. Here are the metrics I used and how they performed for the small model:
 
 - eval_loss: This metric measures how well the model performed on a validation set. Lower scores indicate better performance. The values range from 2.09 to 2.14.
